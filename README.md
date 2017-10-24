@@ -25,7 +25,7 @@
 
 **Warning:** All above links are updated only after Travis CI finishes deployment
 
-## Working on your specification
+## Working on specification
 ### Install
 
 1. Install [Node JS](https://nodejs.org/)
