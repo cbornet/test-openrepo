@@ -1,0 +1,11 @@
+{
+  "generator-openapi-repo": {
+    "importExistingSpec": true,
+    "importedSpec": "./swagger.yaml",
+    "name": "Netatmo",
+    "repo": "cbornet/test-openrepo",
+    "splitSpec": false,
+    "samples": false,
+    "installSwaggerUI": true
+  }
+}
